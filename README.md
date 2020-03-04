@@ -7,8 +7,8 @@
 #2 day:\
 2 Problems\
 #3 day:\
-15 Problems
+15 Problems\
 #4 day:\
-6 Problems
+6 Problems\
 #5 day:\
 10 Problems
