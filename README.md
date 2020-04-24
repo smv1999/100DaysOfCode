@@ -1,6 +1,6 @@
 # 💻100DaysOfCode💻
 
- ![alt text](https://raw.githubusercontent.com/smv1999/100DaysOfCode/master/100daysofcode.png)
+ <div style="text-align:center">![alt text](https://raw.githubusercontent.com/smv1999/100DaysOfCode/master/100daysofcode.png)</div>
 
 
 ## Tasks Performed:
