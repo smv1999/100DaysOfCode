@@ -1,6 +1,6 @@
 # 💻100DaysOfCode💻
 
- <div style="text-align:center"><img src="https://raw.githubusercontent.com/smv1999/100DaysOfCode/master/100daysofcode.png" /></div>
+ <div align="center"><img src="https://raw.githubusercontent.com/smv1999/100DaysOfCode/master/100daysofcode.png" /></div>
 
 
 ## Tasks Performed:
