@@ -1,4 +1,7 @@
-# 100DaysOfCode
+# 💻100DaysOfCode💻
+
+ ![alt text](https://raw.githubusercontent.com/smv1999/100DaysOfCode/master/100daysofcode.png)
+
 
 ## Tasks Performed:
 
