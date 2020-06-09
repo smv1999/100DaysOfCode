@@ -5,11 +5,16 @@
 
 ## Tasks Performed:
 
+### Technical Blogging
+* Contributed articles to GeeksforGeeks
+* Started publishing articles on Medium as a part of #Android Series
+
 ### Competitive Programming
 
 * Solved Hackerrank Problems
 * Explored Data Structures and Algorithms
 * Practiced TCS CodeVita Previous year Questions
+* Started practising on LeetCode.
 
 ### Courses Completed
 
@@ -19,9 +24,13 @@
 * Mathematics Course offered by 365 Data Science
 * Computer Vision Basics
 * TCS iON Knockdown the Lockdown Course offered by TCS
+* How Google Does Machine Learning by Coursera
+* AWS Machine Learning
+* Data Science Math Skills
 
 ### Projects Completed
 
+* Created my Personal Programming Portfolio.
 * Created an Android Application called Be Fit that helps people to manage their work-outs and also provide Food and Fitness Tips.
 * Worked with the MNIST Handwritten Digits Dataset for learning Classification of Handwritten digits using tensorflow.
 * Created a Python Application that provides live updates on COVID-19 with the Visualization of the same using Graphs and Tables.
